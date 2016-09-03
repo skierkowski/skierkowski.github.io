@@ -41,6 +41,7 @@ body {
 
 .about a{
   color: #FFF;
+  text-decoration: none;
 }
 
 p {
